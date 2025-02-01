@@ -1,7 +1,7 @@
 <h2 align="center"> SynthStock 🚀 </h2>
 <h2 align="center"> SynthStock Powered by DeepSeek: High-Performance AI Chatbot Delivering Real-Time Crypto and Market Data with Interactive Charts, Analytics, and Insights </h2>
 
-<h2 align="center"> 🔵 [Overview] 🟢  Features 🔵 Interfaces 🟡 Quickstart 🔴 Community </h2>
+<h2 align="center"> 🔵 Overview 🟢  Features 🔵 Interfaces 🟡 Quickstart 🔴 Community </h2>
 
 
 SynthStock-demo.mp4
