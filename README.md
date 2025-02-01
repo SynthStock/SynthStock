@@ -4,9 +4,14 @@
 <h2 align="center"> 🔵 Overview 🟢  Features 🔵 Interfaces 🟡 Quickstart 🔴 Community </h2>
 
 
-SynthStock-demo.mp4
+<h2 align="center"> SynthStock </h2>
 
-[EDIT IMAGE HERE]
+<div align="center"> 
+  
+![GitHub Logo](https://i.imgur.com/yKOZOnd.png) 
+
+</div>
+
 
 Demonstration of SynthStock generating real-time, interactive crypto charts, market data, and analytical interfaces in response to user queries.  
 
