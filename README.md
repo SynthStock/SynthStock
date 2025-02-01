@@ -1,7 +1,7 @@
 <h2 align="center"> SynthStock 🚀 </h2>
 <h2 align="center"> SynthStock Powered by DeepSeek: High-Performance AI Chatbot Delivering Real-Time Crypto and Market Data with Interactive Charts, Analytics, and Insights </h2>
 
-<h2 align="center"> 🔵 Overview 🟢  Features 🔵 Interfaces 🟡 Quickstart 🔴 Credits</h2>
+<h2 align="center"> 🔵 [Overview](#overview) 🟢  Features 🔵 Interfaces 🟡 Quickstart 🔴 Community </h2>
 
 
 SynthStock-demo.mp4
@@ -10,7 +10,7 @@ SynthStock-demo.mp4
 
 Demonstration of SynthStock generating real-time, interactive crypto charts, market data, and analytical interfaces in response to user queries.  
 
-# **Why Choose SynthStock?**
+#Overview
 
 SynthStock is not just another financial tool—it’s a cutting-edge AI-powered platform designed to revolutionize how you interact with cryptocurrency and stock market data. Here’s why SynthStock is the ultimate choice for traders, investors, and tech enthusiasts:
 
@@ -61,3 +61,8 @@ Don’t just watch the markets—master them with SynthStock.
 ⚡ DeepSeek-Optimized Performance: Leverage DeepSeek’s state-of-the-art inference engine for sub-second response times, ensuring a seamless and efficient user experience even during high-frequency data requests.
 
 🌐 Multi-Market Data Coverage: Access comprehensive datasets and analytical tools for cryptocurrencies, equities, forex, commodities, and derivatives, enabling cross-market analysis and insights.
+
+
+# **Community**
+
+▲ [SynthStock on X](https://x.com/SynthStock)
