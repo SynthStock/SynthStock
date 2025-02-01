@@ -1,7 +1,7 @@
-# SynthStock
+# SynthStock 🚀
 SynthStock Powered by DeepSeek: High-Performance AI Chatbot Delivering Real-Time Crypto and Market Data with Interactive Charts, Analytics, and Insights
 
-# **Overview 🟢  Features 🔵 Interfaces 🟡 Quickstart 🔴 Credits**
+# 🔵 **Overview 🟢  Features 🔵 Interfaces 🟡 Quickstart 🔴 Credits**
 
 SynthStock-demo.mp4
 
@@ -9,10 +9,11 @@ SynthStock-demo.mp4
 
 Demonstration of SynthStock generating real-time, interactive crypto charts, market data, and analytical interfaces in response to user queries.  
 
-Overview
+<span style="color: blue;">Overview
 
-SynthStock is an advanced AI-driven chatbot engineered to deliver real-time cryptocurrency and financial market insights. Built on GPT-4 via DeepSeek’s ultra-low-latency inference infrastructure and powered by TradingView’s dynamic widgets, SynthStock provides context-aware, interactive charting and analytical tools tailored to user queries. DeepSeek’s optimized architecture ensures near-instantaneous API responses, enabling seamless execution of multi-step workflows for delivering precise, data-rich outputs.
+SynthStock is an advanced AI-driven chatbot engineered to deliver real-time cryptocurrency and financial market insights. Built on GPT-4 via DeepSeek’s ultra-low-latency inference infrastructure and powered by TradingView’s dynamic widgets, SynthStock provides context-aware, interactive charting and analytical tools tailored to user queries. DeepSeek’s optimized architecture ensures near-instantaneous API responses, enabling seamless execution of multi-step workflows for delivering precise, data-rich outputs.</span>
 
+![GitHub License](https://img.shields.io/badge/license-MIT-blue)
 
 **Features**
 
