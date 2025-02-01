@@ -1,9 +1,10 @@
 # SynthStock
 SynthStock Powered by DeepSeek: High-Performance AI Chatbot Delivering Real-Time Crypto and Market Data with Interactive Charts, Analytics, and Insights
 
-# **Overview • Features • Interfaces • Quickstart • Credits**
+# **Overview 🟢  Features 🔵 Interfaces 🟡 Quickstart 🔴 Credits**
 
 SynthStock-demo.mp4
+
 [EDIT IMAGE HERE]
 
 Demonstration of SynthStock generating real-time, interactive crypto charts, market data, and analytical interfaces in response to user queries.  
