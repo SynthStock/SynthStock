@@ -1,22 +1,26 @@
 <h2 align="center"> SynthStock 🚀 </h2>
 <h2 align="center"> SynthStock Powered by DeepSeek: High-Performance AI Chatbot Delivering Real-Time Crypto and Market Data with Interactive Charts, Analytics, and Insights </h2>
 
-<h2 align="center"> 🔵 Overview 🟢  Features 🔵 Interfaces 🟡 Quickstart 🔴 Community </h2>
+<h2 align="center"> 
+  
+🔵 [Overview](#overview) 🟢 [Features](#features) 🟡 [Quickstart](#quickstart) 🔴 [Community](#community)
+
+</h2>
 
 
 <h2 align="center"> SynthStock </h2>
 
 <div align="center"> 
   
-![GitHub Logo](https://i.imgur.com/yKOZOnd.png) 
+![Synthstock Logo](https://i.imgur.com/yKOZOnd.png) 
 
 </div>
 
 
-Demonstration of SynthStock generating real-time, interactive crypto charts, market data, and analytical interfaces in response to user queries.  
 
-#Overview
+Front-end look of SynthStock AI agent to get real-time, interactive crypto charts, market data, and analytical interfaces in response to user queries.  
 
+# Overview
 SynthStock is not just another financial tool—it’s a cutting-edge AI-powered platform designed to revolutionize how you interact with cryptocurrency and stock market data. Here’s why SynthStock is the ultimate choice for traders, investors, and tech enthusiasts:
 
 **1. Real-Time, AI-Driven Insights**
@@ -67,6 +71,34 @@ Don’t just watch the markets—master them with SynthStock.
 
 🌐 Multi-Market Data Coverage: Access comprehensive datasets and analytical tools for cryptocurrencies, equities, forex, commodities, and derivatives, enabling cross-market analysis and insights.
 
+# **Quickstart**
+To use SynthStock, you can access the hosted version at synthstock-app.com(WEBSITE LINK). Alternatively, you can run SynthStock locally using the instructions below.
+
+You’ll need a DeepSeek API Key to run the application. You can obtain one from the ![DeepSeek Console](https://api-docs.deepseek.com/).
+
+Local Setup
+
+1.  Clone the repository:
+    ```bash  
+    git clone https://github.com/your-username/synthstock.git
+    cd synthstock
+
+2. Copy the environment file:
+    ```bash 
+    cp .env.example .env.local
+
+3. Add your DeepSeek API Key to .env.local:
+    ```plaintext
+    DEEPSEEK_API_KEY=your_api_key_here
+
+4. Install dependencies and start the app:
+    ```bash   
+    pnpm install
+    pnpm dev
+
+5. Your app should now be running on http://localhost:3000.
+
+That’s it! You’re ready to explore SynthStock locally. 🚀
 
 # **Community**
 
