@@ -74,7 +74,7 @@ Don’t just watch the markets—master them with SynthStock.
 # **Quickstart**
 To use SynthStock, you can access the hosted version at synthstock-app.com(WEBSITE LINK). Alternatively, you can run SynthStock locally using the instructions below.
 
-You’ll need a DeepSeek API Key to run the application. You can obtain one from the ![DeepSeek Console](https://api-docs.deepseek.com/).
+You’ll need a DeepSeek API Key to run the application. You can obtain one from the [DeepSeek Console](https://api-docs.deepseek.com/).
 
 Local Setup
 
