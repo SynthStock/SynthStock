@@ -72,7 +72,7 @@ Don’t just watch the markets—master them with SynthStock.
 🌐 Multi-Market Data Coverage: Access comprehensive datasets and analytical tools for cryptocurrencies, equities, forex, commodities, and derivatives, enabling cross-market analysis and insights.
 
 # **Quickstart**
-To use SynthStock, you can access the hosted version at synthstock-app.com(WEBSITE LINK). Alternatively, you can run SynthStock locally using the instructions below.
+You can run SynthStock locally using the instructions below.
 
 You’ll need a DeepSeek API Key to run the application. You can obtain one from the [DeepSeek Console](https://api-docs.deepseek.com/).
 
@@ -103,3 +103,4 @@ That’s it! You’re ready to explore SynthStock locally. 🚀
 # **Community**
 
 ▲ [SynthStock on X](https://x.com/SynthStock)
+▲ [SynthStock.net](synthstock.net)
