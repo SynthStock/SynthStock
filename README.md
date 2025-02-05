@@ -103,4 +103,5 @@ That’s it! You’re ready to explore SynthStock locally. 🚀
 # **Community**
 
 ▲ [SynthStock on X](https://x.com/SynthStock)
+
 ▲ [SynthStock.net](synthstock.net)
